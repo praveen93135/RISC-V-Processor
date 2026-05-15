@@ -5,16 +5,6 @@
 
 ---
 
-## Team
-
-| Name | Roll Number |
-|------|-------------|
-| Praveen V | 2024102019 |
-| Prasanna N R | 2024102056 |
-| Sri Pranavadarsh Tadepalli | 2024102028 |
-
----
-
 ## Supported Instructions
 
 | Type | Instructions |
