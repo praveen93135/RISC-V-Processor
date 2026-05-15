@@ -129,3 +129,10 @@ A **tournament branch predictor** dynamically selects between two sub-predictors
 - Prediction metadata (1-bit state, 2-bit state, selector state) is propagated through IF/ID and ID/EX pipeline registers to ensure the correct speculative state is available at the EX stage for updating.
 - On misprediction: pipeline is flushed and PC is corrected.
 - States `00`/`01` → predict **not taken**; `10`/`11` → predict **taken** (2-bit counter MSB as output).
+
+---
+
+## References
+
+1. David A. Patterson, John L. Hennessy, *Computer Organization and Design RISC-V Edition: The Hardware Software Interface.*
+2. Sarah Harris, David Harris, *Digital Design and Computer Architecture, RISC-V Edition.*
